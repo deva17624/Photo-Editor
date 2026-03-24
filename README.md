@@ -10,12 +10,19 @@ The application provides an interactive interface with sliders and buttons, maki
 🚀 Features
 ✅ Core Features
 Upload an image
+
 Resize image dynamically
+
 Adjust brightness and contrast
+
 Convert image to grayscale
+
 Apply blur effect
+
 Apply warm filter
+
 Sharpen image
+
 Download edited image
 
 ✨ Additional Features
